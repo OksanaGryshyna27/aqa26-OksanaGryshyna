@@ -1,0 +1,36 @@
+h1 {
+  font-family: Arial, sans-serif;
+  background-color: yellow;
+  text-transform: uppercase;
+  line-height: 40px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+strong {
+  font-weight: normal;
+}
+
+.highlighted {
+  font-size: 30px;
+  line-height: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  cursor: default;
+}
+
+.link {
+  color: blue;
+  text-decoration: underline;
+}
+
+.emphasis {
+  font-style: italic;
+}
+
+.important {
+  font-weight: bold;
+}
